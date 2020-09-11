@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Pratyush Vardhan
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 
 ## Log
 
