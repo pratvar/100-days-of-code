@@ -12,3 +12,6 @@ Finished [project](pratvar.github.io/fCC-projects/html-css/tribute-page).
 
 ### R1D3
 Finished freeCodeCamp's [second project](https://pratvar.github.io/fCC-projects/html-css/survey-form/).
+
+### R1D4
+Finished freeCodeCamp's [third project](https://pratvar.github.io/fCC-projects/html-css/product-landing-page/).
