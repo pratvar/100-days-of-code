@@ -15,3 +15,6 @@ Finished freeCodeCamp's [second project](https://pratvar.github.io/fCC-projects/
 
 ### R1D4
 Finished freeCodeCamp's [third project](https://pratvar.github.io/fCC-projects/html-css/product-landing-page/).
+
+### R1D5
+Finished freeCodeCamp's [fourth project](https://pratvar.github.io/fCC-projects/html-css/technical-documentation-page/).
