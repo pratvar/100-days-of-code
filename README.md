@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Pratyush Vardhan
+# #100DaysOfCode Log - Round 1 - Pratik Var
 
 The log of my #100DaysOfCode challenge. Started on [September 11, Friday, 2020].
 
@@ -18,3 +18,6 @@ Finished freeCodeCamp's [third project](https://pratvar.github.io/fCC-projects/h
 
 ### R1D5
 Finished freeCodeCamp's [fourth project](https://pratvar.github.io/fCC-projects/html-css/technical-documentation-page/).
+
+### On hold for Septmeber 17 to September 21
+Was busy moving to another place.
