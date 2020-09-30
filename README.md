@@ -22,8 +22,29 @@ Finished freeCodeCamp's fourth project: [Technical Document Page](https://pratva
 ### R1D6: September 16, 2020
 Worked on freeCodeCamp's [portfolio project](https://pratvar.github.io).
 
-### On hold for Septmeber 17 to September 21
+### On hold for Septmeber 17 to September 22
 Was busy relocating.
 
-### R1D7: September 22, 2020
+### R1D7: September 23, 2020
 Brushed up on some JavaScript with freeCodeCamp's Algorithms and Data Structures modules.
+
+### R1D8: September 24, 2020
+Finished the [portfolio project](https://pratvar.github.io) and got freeCodeCamp's [Responsive Web Design Certification](https://www.freecodecamp.org/certification/pratvar/responsive-web-design).
+
+### R1D9: September 25, 2020
+JavaScript exercises on freeCodeCamp.
+
+### R1D10: September 26, 2020
+JavaScript exercises on freeCodeCamp.
+
+### R1D11: September 27, 2020
+JavaScript exercises on freeCodeCamp.
+
+### R1D12: September 28, 2020
+JavaScript exercises on freeCodeCamp.
+
+### R1D13: September 29, 2020
+JavaScript exercises on freeCodeCamp.
+
+### R1D14: September 30, 2020
+Finished all projects and got freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/pratvar/javascript-algorithms-and-data-structures).
