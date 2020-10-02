@@ -48,3 +48,6 @@ JavaScript exercises on freeCodeCamp.
 
 ### R1D14: September 30, 2020
 Finished all projects and got freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/pratvar/javascript-algorithms-and-data-structures).
+
+### R1D15: October 1, 2020
+Finished Bootstrap, jQuery, Sass on freeCodeCamp, got started with React. Hooked GitHub Pages website to [pratvar.com](https://www.pratvar.com).
