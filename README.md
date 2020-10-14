@@ -50,4 +50,31 @@ JavaScript exercises on freeCodeCamp.
 Finished all projects and got freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/pratvar/javascript-algorithms-and-data-structures).
 
 ### R1D15: October 1, 2020
-Finished Bootstrap, jQuery, Sass on freeCodeCamp, got started with React. Hooked GitHub Pages website to [pratvar.com](https://www.pratvar.com).
+Finished Bootstrap, jQuery, Sass on freeCodeCamp, got started with React. Learned more about domains and DNS, hooked GitHub Pages website to [pratvar.com](https://www.pratvar.com).
+
+### R1D16: October 2, 2020
+Went through half of React exercises on freeCodeCamp. Learned more about pull requests and contributing to open source.
+
+### R1D17: October 3, 2020
+Finished React exercises on freeCodeCamp. Got started with Redux.
+
+### R1D18: October 4, 2020
+Laid out plans for my portfolio. Finished the Front End Libraries course on freeCodeCamp, now moving on to the projects.
+
+### R1D19-20: October 5-6, 2020
+Learned more about npm, node. Finished the first project of freeCodeCamp's Front End Libraries course: [Random Quote Machine](https://pratvar.com/fCC-projects/frontend-libs/random-quote)
+
+### R1D21: October 7, 2020
+Finished the second and third projects of freeCodeCamp's Front End Libraries course: [Markdown Previewer](https://pratvar.com/fCC-projects/frontend-libs/markdown-previewer/) and [Drum Machine](https://pratvar.com/fCC-projects/frontend-libs/drum-machine/)
+
+### R1D22: October 8, 2020
+Finished the fourth project of freeCodeCamp's Front End Libraries course: [JavaScript Calculator](https://pratvar.com/fCC-projects/frontend-libs/js-calculator)
+
+### R1D23: October 9, 2020
+Finished the final project — [25+5 clock](https://pratvar.com/fCC-projects/frontend-libs/pomodoro-timer) — and got the Front End Libraries [certification](https://www.freecodecamp.org/certification/pratvar/front-end-libraries) from freeCodeCamp.
+
+### R1D24-26: October 10-12, 2020
+Finished building my [personal website and portfolio](https://pratvar.com)
+
+### R1D27: October 13, 2020
+Made a few changes to the portfolio, added another section.
