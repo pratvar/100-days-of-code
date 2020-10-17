@@ -78,3 +78,6 @@ Finished building my [personal website and portfolio](https://pratvar.com)
 
 ### R1D27: October 13, 2020
 Made a few changes to the portfolio, added another section.
+
+### R1D28-31: October 14-17, 2020
+Data Visualization exercises on freeCodeCamp.
