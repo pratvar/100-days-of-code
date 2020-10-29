@@ -81,3 +81,18 @@ Made a few changes to the portfolio, added another section.
 
 ### R1D28-31: October 14-17, 2020
 Data Visualization exercises on freeCodeCamp.
+
+### R1D32-34: October 18-20, 2020
+Finished the first project: [Bar Chart](https://pratvar.com/fCC-projects/data-visualization/bar-chart/)
+
+### R1D35-36: October 21-22, 2020
+Worked on a pre-hire project: [github.com/pratvar/revos](https://github.com/pratvar/revos)
+
+### R1D37: October 23, 2020
+Another project (a task of converting design into code): [github.com/pratvar/onething-task](https://github.com/pratvar/onething-task)
+
+### R1D38-39: October 24-25, 2020
+Finished the [second project](https://pratvar.com/fCC-projects/data-visualization/scatterplot-graph/) of freeCodeCamp's Data Visualization course
+
+### R1D40-43: October 26-29, 2020
+Finished the third project: [Heat Map](https://pratvar.com/fCC-projects/data-visualization/heat-map/)
