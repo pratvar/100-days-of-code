@@ -96,3 +96,6 @@ Finished the [second project](https://pratvar.com/fCC-projects/data-visualizatio
 
 ### R1D40-43: October 26-29, 2020
 Finished the third project: [Heat Map](https://pratvar.com/fCC-projects/data-visualization/heat-map/)
+
+### R1D44-45: October 30-31, 2020
+Finished the fourth and fifth projects: [Choropleth map](https://pratvar.com/fCC-projects/data-visualization/choropleth-map) and [Treemap](https://pratvar.com/fCC-projects/data-visualization/treemap); got the [Data Visualization certification](https://www.freecodecamp.org/certification/pratvar/data-visualization) from freeCodeCamp.
