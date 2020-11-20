@@ -102,3 +102,6 @@ Finished the fourth and fifth projects: [Choropleth map](https://pratvar.com/fCC
 
 ### R1D46-50: November 1-5, 2020
 Finished exercises of freeCodeCamp's APIs and Microservices course; read about Redux-Saga and GraphQL; learned Adobe XD.
+
+### R1D51-65: November 6-20, 2020
+Finished the [projects](https://github.com/pratvar/fCC-projects/tree/master/APIs-microservices) and got the [APIs and Microservices certification](https://www.freecodecamp.org/certification/pratvar/apis-and-microservices) from freeCodeCamp.
