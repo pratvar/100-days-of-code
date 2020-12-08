@@ -105,3 +105,6 @@ Finished exercises of freeCodeCamp's APIs and Microservices course; read about R
 
 ### R1D51-65: November 6-20, 2020
 Finished the [projects](https://github.com/pratvar/fCC-projects/tree/master/APIs-microservices) and got the [APIs and Microservices certification](https://www.freecodecamp.org/certification/pratvar/apis-and-microservices) from freeCodeCamp.
+
+### R1D66-75: November 21-30, 2020
+Was busy with my job. Worked with react, antd, material-ui, nivo, mapbox, graphql.
