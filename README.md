@@ -108,3 +108,6 @@ Finished the [projects](https://github.com/pratvar/fCC-projects/tree/master/APIs
 
 ### R1D66-75: November 21-30, 2020
 Was busy with my job. Worked with react, antd, material-ui, nivo, mapbox, graphql.
+
+### R1D76-100: December 1-25, 2020
+Learned from freeCodeCamp's QA and Information Security courses.
